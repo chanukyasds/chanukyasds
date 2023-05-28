@@ -2,7 +2,7 @@
 
 
 
-**Databases**: PostgreSQL, MSSQL, MongoDB   
+**Databases**: PostgreSQL   
 **Languages**: C, python, C#   
 **Operating system**: Ubuntu/linux   
 **Infra**: Ansible, Openshift   
