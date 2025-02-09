@@ -3,7 +3,7 @@
 
 
 **Databases**: PostgreSQL   
-**Languages**: C, python, C#   
+**Languages**: C, python, Java   
 **Operating system**: Ubuntu/linux   
 **Infra**: Ansible, Openshift   
 **Cloud** : AWS-ec2, Azure    
