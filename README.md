@@ -5,8 +5,9 @@
 **Databases**: PostgreSQL   
 **Languages**: C, python, Java   
 **Operating system**: Ubuntu/linux   
-**Infra**: Ansible, Openshift   
-**Cloud** : AWS-ec2, Azure    
+**Infra**: Ansible,Terraform   
+**Cloud** : AWS-ec2, Azure
+**Container** : Docker, Kubernetes and Openshift
 
 **PostgreSQL**:    
 [pg_math](https://github.com/chanukyasds/pg_math) - statistical distribution for postgresql.    
