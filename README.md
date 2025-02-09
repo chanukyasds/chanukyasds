@@ -6,7 +6,7 @@
 **Languages**: C, python, Java   
 **Operating system**: Ubuntu/linux   
 **Infra**: Ansible,Terraform   
-**Cloud** : AWS-ec2, Azure
+**Cloud** : AWS-ec2, Azure  
 **Container** : Docker, Kubernetes and Openshift
 
 **PostgreSQL**:    
