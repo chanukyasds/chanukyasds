@@ -3,10 +3,10 @@
 
 
 **Databases**: PostgreSQL   
-**Languages**: C, python, Java   
-**Operating system**: Ubuntu/linux   
+**Languages**: C, Python, Java   
+**Operating system**: Ubuntu/linux, MacOs   
 **Infra**: Ansible,Terraform   
-**Cloud** : AWS-ec2, Azure  
+**Cloud** : AWS, Azure, VMWare  
 **Container** : Docker, Kubernetes and Openshift
 
 **PostgreSQL**:    
